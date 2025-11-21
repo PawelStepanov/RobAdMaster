@@ -4,7 +4,7 @@
 
 <p align="center">
 
-&nbsp; <img src="docs/MainMenu.jpg" alt="RobAdMaster Main menu" width="300"/>
+&nbsp; <img src="../docs/MainMenu.jpg" alt="RobAdMaster Main menu" width="300"/>
 
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
 
-&nbsp; <img src="docs/Example.jpg" alt="Пример ввода параметров" width="300"/>
+&nbsp; <img src="../docs/Example.jpg" alt="Пример ввода параметров" width="300"/>
 
 </p>
 
@@ -28,7 +28,7 @@
 
 $$
 
-H(p)=\\frac{12.8e^{-p}}{16.7p+1},  
+H(p)=\frac{12.8e^{-p}}{16.7p+1},  
 
 $$
 
@@ -44,7 +44,7 @@ $$
 
 <p align="center">
 
-  <img src="docs/Example2.jpg" alt="Пример ввода параметров" width="300"/>
+  <img src="../docs/Example2.jpg" alt="Пример ввода параметров" width="300"/>
 
 </p>
 
@@ -54,7 +54,7 @@ $$
 
 $$
 
-H(p)=\\frac{-0.101e^{-12p}}{(48p+1)(45p+1)},
+H(p)=\frac{-0.101e^{-12p}}{(48p+1)(45p+1)},
 
 $$
 
@@ -70,7 +70,7 @@ $$
 
 <p align="center">
 
-  <img src="docs/Example3.jpg" alt="Пример ввода параметров" width="300"/>
+  <img src="../docs/Example3.jpg" alt="Пример ввода параметров" width="300"/>
 
 </p>
 
@@ -84,7 +84,7 @@ $$
 
 <p align="center">
 
-  <img src="docs/Example4.jpg" alt="Расчет зоны неопределенности для статических коэффициентов" width="300"/>
+  <img src="../docs/Example4.jpg" alt="Расчет зоны неопределенности для статических коэффициентов" width="300"/>
 
 </p>
 
@@ -98,7 +98,7 @@ $$
 
 <p align="center">
 
-  <img src="docs/Example5.jpg" alt="Базовые настройки" width="300"/>
+  <img src="../docs/Example5.jpg" alt="Базовые настройки" width="300"/>
 
 </p>
 
@@ -112,7 +112,7 @@ $$
 
 <p align="center">
 
-  <img src="docs/Example6.jpg" alt="Расширенные настройки" width="300"/>
+  <img src="../docs/Example6.jpg" alt="Расширенные настройки" width="300"/>
 
 </p>
 
@@ -130,7 +130,7 @@ $$
 
 <p align="center">
 
-  <img src="docs/Example7.jpg" alt="Пример ввода зоны неопределенности для каждого параметра" width="300"/>
+  <img src="../docs/Example7.jpg" alt="Пример ввода зоны неопределенности для каждого параметра" width="300"/>
 
 </p>
 
@@ -150,7 +150,7 @@ $$
 
 <p align="center">
 
-  <img src="docs/Example8.jpg" alt="Окно расчета регуляторов" width="300"/>
+  <img src="../docs/Example8.jpg" alt="Окно расчета регуляторов" width="300"/>
 
 </p>
 
@@ -162,7 +162,7 @@ $$
 
 <p align="center">
 
-  <img src="docs/Example9.jpg" alt="График переходного процесса" width="300"/>
+  <img src="../docs/Example9.jpg" alt="График переходного процесса" width="300"/>
 
 </p>
 
